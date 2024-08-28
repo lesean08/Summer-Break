@@ -1,1 +1,3 @@
 # summer-break
+Resources: Help from classmates, classroom examples, Javascript for Dummies(Book), W3Schools, You tube vidos Javascripts with loops and arrays
+My summer-break is late due to my illness at the end of June. I have been trying to catch up and do my current work and its been hard trying to catch up on my missing work vs during current work when I am still trying to understand and deal with everything else. I tried and did my best. 
